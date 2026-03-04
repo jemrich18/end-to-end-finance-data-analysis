@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+
+# Raw and processed data files
+data/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# uv files
+.python-version
+uv.lock
