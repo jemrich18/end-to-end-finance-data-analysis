@@ -2,7 +2,7 @@
 
 An interactive data analysis dashboard exploring 1,500 personal finance transactions across 5 years (2020–2024). Built with Python, Pandas, and Streamlit to uncover spending patterns, identify trends, and forecast future expenses using Linear Regression.
 
-**[Live Demo](#)** | **[GitHub](https://github.com/jemrich18/end-to-end-finance-data-analysis)**
+**[Live Demo](https://end-to-end-finance-data-analysis-4qjvmptdvwcv5mcrfkydze.streamlit.app/)** | **[GitHub](https://github.com/jemrich18/end-to-end-finance-data-analysis)**
 
 ---
 
